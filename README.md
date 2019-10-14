@@ -6,10 +6,10 @@
     <img src="Readme_Assets/Banner.png" alt="Banner" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Ongoing Project Directory</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Hey There! Welcome to our ongoing projects directory. Here anybody can view current project that, we, at Codetru are in the process of making for our clients. And some projects seen here are just to grow our portfolio.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
