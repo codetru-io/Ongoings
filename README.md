@@ -76,9 +76,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/Twitter) - email@example.com
+Our Email - info@codetru.io
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Website](https://project.codetru.io)
 
 
 
