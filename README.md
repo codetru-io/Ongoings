@@ -13,7 +13,7 @@
     <br />
     <br />
     <br />
-    <a href="https://www.project.codetru.io">View Demo</a>
+    <a href="https://project.codetru.io">View Demo</a>
     ·
     <a href="https://github.com/codetru-io/Ongoings/issues">Report Bug</a>
     ·
