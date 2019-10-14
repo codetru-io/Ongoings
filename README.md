@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/codetru-io/Ongoings">
-    <img src="Readme_Assets/Banner.png" alt="Banner" width="80" height="120">
+    <img src="Readme_Assets/Banner.png" alt="Banner" width="100" height="100">
   </a>
 
   <h3 align="center">Ongoing Project Directory</h3>
