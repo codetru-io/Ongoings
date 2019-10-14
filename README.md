@@ -29,7 +29,6 @@
 * [About the Projects](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
