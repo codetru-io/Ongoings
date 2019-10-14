@@ -45,8 +45,8 @@ We make so many different styles of applications. Most on the web, the ones that
 
 Here's why:
 * There are so many things that can be made in this day of age, so why not make it yours.
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Creating applications ranging from displaying information, to an online store, and even a social media site.
+* Looking at what we have made can help you dicide.
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
