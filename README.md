@@ -48,29 +48,17 @@ Here's why:
 * Creating applications ranging from displaying information, to an online store, and even a social media site.
 * Looking at what we have made can help you dicide.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+Since we at Codetru make so many different type of applications we decided to list a few frameworks that we use.
 * [Laravel](https://laravel.com)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+* [UIKit](https://getuikit.com/)
+* [Vue](https://vuejs.org/)
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+Since we do not make many local applications there is no need to ever install any resources on your device. :)
 
 ### Installation
 
