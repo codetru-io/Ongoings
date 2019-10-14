@@ -58,7 +58,7 @@ Since we at Codetru make so many different type of applications we decided to li
 
 ### Prerequisites
 
-Since we do not make many local applications there is no need to ever install any resources on your device.
+Since we do not make many local applications there is no need to ever install any resources on your device. :smile:
 
 
 <!-- ROADMAP -->
