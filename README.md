@@ -11,14 +11,13 @@
   <p align="center">
     Hey There! Welcome to our ongoing projects directory. Here anybody can view current project that, we, at Codetru are in the process of making for our clients. And some projects seen here are just to grow our portfolio.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://www.project.codetru.io">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/codetru-io/Ongoings/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/codetru-io/Ongoings/issues">Request Feature</a>
   </p>
 </p>
 
