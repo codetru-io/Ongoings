@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/codetru-io/Ongoings">
+    <img src="Readme_Assets/Banner.png" alt="Banner" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
