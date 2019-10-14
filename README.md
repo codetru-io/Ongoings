@@ -2,23 +2,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/codetru-io/Ongoings">
+    <img src="Readme_Assets/Banner.png" alt="Banner" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Ongoing Project Directory</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Hey There! Welcome to our ongoing projects directory. Here anybody can view current project that, we, at Codetru are in the process of making for our clients. And some projects seen here are just to grow our portfolio.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <br />
+    <a href="https://www.project.codetru.io">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/codetru-io/Ongoings/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/codetru-io/Ongoings/issues">Request Feature</a>
   </p>
 </p>
 
