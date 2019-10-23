@@ -72,7 +72,8 @@
           ['4','so-low/1476702376?i=1476702382','So Low'],
           ['5','call-me-feat-kxrlow/1476702376?i=1476702384','Call Me (ft Kxlrow)'],
           ['6','so-low/1476702376?i=1476702382','Broken'],
-          ['7','in-my-room/1479359405?i=1479359406','In My Room']
+          ['7','in-my-room/1479359405?i=1479359406','In My Room'],
+          ['8','roll-the-dice/1482797232?i=1482797233','Roll The Dice']
         ];
         var soundcloud_ID = [
             ['1','591659310','Sober'],
@@ -81,7 +82,8 @@
             ['4','612538422','So Low'],
             ['5','618128400','Call Me ft. Kxrlow'],
             ['6','626777916','Broken'],
-            ['7','673914089','In My Room']
+            ['7','673914089','In My Room'],
+            ['8','692609071','Roll The Dice']
         ];
         var spotify_ID = [
             ['1','7A2I9iWfUyarZqA2XAXaep','Sober'],
@@ -90,7 +92,8 @@
             ['4','6gspZFtCZsEXp3jqfOriNO','So Low'],
             ['5','5AYaw3rzTXmmcrgrhAQWwH','Call Me ft. Kxrlow'],
             ['6','4QpLQzC2fsMIiLQ8UvsBBM','Broken'],
-            ['7','0ko3usDsLvIqFKksEbLpTK','In My Room']
+            ['7','0ko3usDsLvIqFKksEbLpTK','In My Room'],
+            ['8','1ccpHPOeDxBICXbYVcrHiO', 'Roll The Dice']
         ];
 
 
