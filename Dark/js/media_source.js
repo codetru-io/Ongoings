@@ -66,6 +66,7 @@
         var M_frame = document.getElementById("M_player_frame");
 
         var apple_ID = [
+            [],
           ['1','sober/1476702376?i=1476702383','Sober'],
           ['2','waiting/1476702376?i=1476702478','Waiting'],
           ['3','tears/1476702376?i=1476702381','Tears'],
@@ -76,6 +77,7 @@
           ['8','roll-the-dice/1482797232?i=1482797233','Roll The Dice']
         ];
         var soundcloud_ID = [
+            [],
             ['1','591659310','Sober'],
             ['2','598936773','Waiting'],
             ['3','607535451','Tears'],
@@ -86,6 +88,7 @@
             ['8','692609071','Roll The Dice']
         ];
         var spotify_ID = [
+            [],
             ['1','7A2I9iWfUyarZqA2XAXaep','Sober'],
             ['2','3X5A6PjuKyIHd1TPMrfeUZ','Waiting'],
             ['3','4PzWhKQg1f5Eq6gYzLHcyI','Tears'],
@@ -134,20 +137,21 @@
                     M_current_source = "spotify";
                     M_current_song_ID = music_id;
                     M_frame.innerHTML = M_spotify_source_frame+M_current_song+M_spotify_source_parameters;
+                    M_music_title.innerHTML = spotify_ID[music_id][2];
                 }
                 else if(M_player_selection == "apple") {
                     M_current_song = apple_ID[music_id][1];
                     M_current_source = "apple";
                     M_current_song_ID = music_id;
                     M_frame.innerHTML = M_apple_source_frame+M_current_song+M_apple_source_parameters;
-
+                    M_music_title.innerHTML = apple_ID[music_id][2];
                 }
                 else {
                     M_current_song = soundcloud_ID[music_id][1];
                     M_current_source = "soundcloud";
                     M_current_song_ID = music_id;
                     M_frame.innerHTML = M_soundcloud_source_frame+M_current_song+M_soundcloud_source_parameters;
-
+                    M_music_title.innerHTML = soundcloud_ID[music_id][2];
                 }
     
                  
