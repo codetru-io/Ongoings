@@ -2522,7 +2522,10 @@ button {
     }
     .V-Height {
         height: 200px;
-    }
+	}
+	.index-size {
+		height: 1000px;
+	}
 }
 
 @media only screen and (min-width: 425px) and (max-width: 600px) {
