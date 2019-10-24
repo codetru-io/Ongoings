@@ -2221,7 +2221,7 @@ Media queries for responsive design
 	.navik-header.center-menu-2 .logo {
 		float: none;
 		top: 0;
-		padding: 36px 30px;
+		padding: 36px 0 0 0;
 		-webkit-transform: translateY(0);
 		-moz-transform: translateY(0);
 		-o-transform: translateY(0);
