@@ -23,7 +23,7 @@
 
         // -------- Frame Source | Music Page -------- //
 
-            var M_apple_source_frame = "<iframe allow='autoplay *; encrypted-media *;' frameborder='0' height='400px' style='width:100%;max-width:660px;overflow:hidden;background:transparent;' sandbox='allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation' src='https://embed.music.apple.com/ca/album/";
+            var M_apple_source_frame = "<iframe allow='autoplay *; encrypted-media *;' frameborder='0' height='400px' style='width:100%;overflow:hidden;background:transparent;' sandbox='allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation' src='https://embed.music.apple.com/ca/album/";
             var M_soundcloud_source_frame = "<iframe width='100%' height='400' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/";
             var M_spotify_source_frame = "<iframe src='https://open.spotify.com/embed/track/";
 
