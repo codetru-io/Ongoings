@@ -3095,4 +3095,11 @@ button {
 	#tour-padding {
 		margin-bottom: -75px!important;
 	}
+	#social-links {
+		width: 25%!important;
+		clear: none!important;
+	}
+	.tour-layout {
+		text-align: left;
+	}
 }

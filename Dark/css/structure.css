@@ -49,7 +49,6 @@ body {
 }
 
 body:not(.template-slider) #Content {
-    padding-top: 30px;
 }
 
 .section {
@@ -6540,7 +6539,6 @@ body {
     .section_wrapper .column,.container .column,.sections_group,.four.columns {
         margin: 0;
         width: 100% !important;
-        clear: both;
     }
 
     .aside_both .sections_group {
