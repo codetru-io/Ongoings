@@ -1,15 +1,14 @@
 /*
 |-------------------------------------------------------------------------
-|
-| Codetru.io
-| Global Cascading Styles
-| version 1.0.0
-| https://Codetru.io
-| 
+| Be
+| Global style
+| version 6.0
+| http://BeantownThemes.com
+| http://themeforest.net/user/BeantownThemes
 |--------------------------------------------------------------------------
 | 1.0 Base
 | 2.0 Buttons
-| 3.0 Icons
+| 3.0 Mfn-icons
 | 4.0 Shortcodes
 | 5.0 Variables
 | 6.0 Animation
@@ -31,7 +30,7 @@
 |
 */
 
-/* #Reset & Basics
+/* #Reset & Basics (Inspired by E. Meyers)
 ================================================== */
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, tt, var, b, u, i, center, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -144,7 +143,7 @@ iframe {
 }
 /* Sizes ----------------------------------------------------------------------------- */
 
-/* columns */
+/* .mcb-wrap */
 
 .one-sixth.mcb-wrap {
 	width: 16.666%;
@@ -734,7 +733,7 @@ a:hover.tp-button.lightgrey {
 }
 /*
 |--------------------------------------------------------------------------
-|  3.0 Icons
+|  3.0 Mfn-icons
 |  
 |--------------------------------------------------------------------------
 |
@@ -744,8 +743,8 @@ a:hover.tp-button.lightgrey {
 
 @font-face {
 	font-family: 'mfn-icons';
-	src: url(fonts/ct-icons.eot);
-	src: url(fonts/ct-icons.eot) format("embedded-opentype"), url(fonts/ct-icons.woff) format("woff"), url(fonts/ct-icons.ttf) format("truetype"), url(fonts/ct-icons.svg) format("svg");
+	src: url(fonts/mfn-icons.eot);
+	src: url(fonts/mfn-icons.eot) format("embedded-opentype"), url(fonts/mfn-icons.woff) format("woff"), url(fonts/mfn-icons.ttf) format("truetype"), url(fonts/mfn-icons.svg) format("svg");
 	font-weight: 400;
 	font-style: normal;
 }

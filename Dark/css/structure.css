@@ -72,7 +72,7 @@ body:not(.template-slider) #Content {
 
 .column,.columns {
     float: left;
-    margin-right: 20px;
+    margin: 0 1% 40px;
 }
 
 .column.column_divider,.column-margin-0px .column {
@@ -6548,7 +6548,7 @@ body {
     }
 
     .section_wrapper,.container,.four.columns {
-        width: 320px !important;
+        width: 260px !important;
     }
 
     .left-sidebar .items_group,.right-sidebar .items_group,.with_aside .content_wrapper {

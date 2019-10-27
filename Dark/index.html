@@ -253,25 +253,29 @@
                 style="padding-top:100px; padding-bottom:60px; background-color: #FFF; height: auto;"
               >
                 <div
-                  class="section-decoration top"
+                  class="section-decoration top "
                   style="background-image:url(./images/home_musician_decoration1.png);height:103px"
+                  id="tour-section"
                 ></div>
                 <div class="section_wrapper mcb-section-inner">
                     <div
                     class="wrap mcb-wrap one-second valign-top clearfix"
                     style="padding:0 4% 0 0; padding-left: 20px; padding-left: 125px; padding-bottom: 75px;"
+                    id="tour-padding"
                   >
                     <div class="mcb-wrap-inner">
                       <div
                         class="column mcb-column one column_column column-margin-10px"
                       >
                         <div class="column_attr clearfix">
-                          <h1 style="margin-bottom: -10px">Tour</h1>
-                          <h3 id="current date">Date</h3>
+                          <h1 style="margin-bottom: -10px; background-color: #000; width: 60%; color: #FFF;" class="tour-background">Tour</h1>
+                          <h3 id="current date" class="date-align">Date</h3>
                           <br />
+                          <div id="tour-display">
                           <h4>Previous Tour</h4>
                           <h5>Info About it here</h5>
                           <br />
+                          </div>
                           <div
                             class="image_frame image_item no_link scale-with-grid alignnone no_border"
                           >
@@ -291,12 +295,11 @@
                           
                               
                               <div
-                                id=""
+                                id="tour-button-desktop"
                                 style="width: 220px; padding-left: -20px"
                               >
                                 <button
                                   class="btn_selector btn-sep"
-                                  onclick="index_source('soundcloud')"
                                   style="font-size: 30px; text-align: left; margin-left: -15px;"
                                 >
                                   
@@ -312,11 +315,23 @@
                     <div class="wrap mcb-wrap one-second  valign-top clearfix" style="padding-top: 50px; padding-left: 50px;">
                         <div class="mcb-wrap-inner">
                           <div class="column mcb-column one column_blog_news " >
-                              <div class="wrap mcb-wrap one-third valign-top clearfix" style="margin-top: -30px; margin-left: -50px; height:500px; width: 100%;">
+                              <div class="wrap mcb-wrap one-third valign-top clearfix" id="video_style">
                                   <iframe width="100%" height="100%" src="https://www.youtube.com/embed/khawX1PsTw8" frameborder="0"></iframe>
                             </div>
                           </div>
                         </div>
+                      </div>
+                      <div
+                        style="width: 220px; padding-left: -20px; display: none;"
+                        id="tour-button-mobile"
+                      >
+                        <button
+                          class="btn_selector btn-sep"
+                          style="font-size: 30px; text-align: left; margin-left: -15px;"
+                        >
+                          
+                          Read More
+                        </button>
                       </div>
                 </div>
               </div>
@@ -358,8 +373,8 @@
                                     <div class="mask"></div>
                                     <i></i
                                     ><img
-                                      width="150"
-                                      height="150"
+                                      width="100"
+                                      height="100"
                                       src="./images/Songs/UpAllNight.png"
                                       class="scale-with-grid wp-post-image"
                                       alt=""
@@ -402,9 +417,9 @@
                             </div>
                           </div>
                           <hr class="no_line" style="margin: 0 auto 15px;" />
-                          <div style="text-align: left; ">
+                          <div style="text-align: left;" id="source-section">
                             <div>
-                              <div id="" style="width: 220px;">
+                              <div id="source-picker" style="">
                                 <button
                                   class="btn_selector btn-sep"
                                   onclick="index_source('spotify')"
@@ -417,7 +432,7 @@
                                   Spotify
                                 </button>
                               </div>
-                              <div id="" style="width: 220px;">
+                              <div id="source-picker" style="">
                                 <button
                                   class="btn_selector btn-sep"
                                   onclick="index_source('apple');"
@@ -428,8 +443,9 @@
                                 </button>
                               </div>
                               <div
-                                id=""
-                                style="width: 220px; padding-left: -20px"
+                              style="padding-left: -20px"
+                                id="source-picker"
+                                
                               >
                                 <button
                                   class="btn_selector btn-sep"

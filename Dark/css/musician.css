@@ -2527,7 +2527,7 @@ button {
 		height: 1000px;
 	}
 	.merch_background {
-		width: 60%;
+		width: 50%;
 	}
 }
 
@@ -3051,4 +3051,48 @@ button {
     opacity:1;
     transform:translateY(0);
   }
+}
+#video_style {
+	margin-top: -30px; margin-left: -50px; height:500px; width: 100%;
+}
+#source-picker {
+	width: 220px; 
+}
+@media (max-width: 500px) {
+	#source-section {
+		width: 500px!important;
+	}
+	#video_style {
+		height:200px; width: 125%!important;
+	}
+	#source-picker i {
+		display: none;
+	}
+	#source-picker {
+		width: 100px;
+		padding-left: -20px;
+	}
+	#tour-section {
+		background-image: none!important;
+		text-align: left;
+	}
+	.tour-background {
+		width: 85%!important;
+	}
+	.date-align{
+		text-align: left;
+		padding-top: 10px;
+	}
+	#tour-display {
+		display: none;
+	}
+	#tour-button-desktop {
+		display: none;
+	}
+	#tour-button-mobile {
+		display: inline!important;
+	}
+	#tour-padding {
+		margin-bottom: -75px!important;
+	}
 }
