@@ -6,7 +6,7 @@ error_reporting(0);
   
  // configuration
  
-$email_it_to = "jeremyrycroft@gmail.com";
+$email_it_to = "dark@codetru.io";
 
 $error_message = "Please complete the form first";
 
