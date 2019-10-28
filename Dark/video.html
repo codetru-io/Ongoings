@@ -102,6 +102,10 @@
                             <br><br>
                         
                             <div id="M_player_frame_2" class="V-Height"></div>
+                            <br><br>
+                        
+                            <div id="M_player_frame_3" class="V-Height"></div>
+
 
                     </div>
                     <div class="section" style="background-color: #FFF ">
@@ -458,11 +462,13 @@
         
     var video_player_1 = document.getElementById("M_player_frame_1");
     var video_player_2 = document.getElementById("M_player_frame_2");
+    var video_player_3 = document.getElementById("M_player_frame_3");
 
    window.showVideos = function(data) {
     if (data.items && data.items.length > 0) {
     video_player_1.innerHTML ='<iframe width="100%" height=100%" src="https://www.youtube.com/embed/'+data.items[0].contentDetails.videoId+'" frameborder="0" allowfullscreen></iframe>';
     video_player_2.innerHTML ='<iframe width="100%" height=100%" src="https://www.youtube.com/embed/'+data.items[1].contentDetails.videoId+'" frameborder="0" allowfullscreen></iframe>';
+    video_player_3.innerHTML ='<iframe width="100%" height=100%" src="https://www.youtube.com/embed/'+data.items[2].contentDetails.videoId+'" frameborder="0" allowfullscreen></iframe>';
         
         
     }
