@@ -14,7 +14,6 @@
         var M_player_frame;
         var M_player_selection;
 
-
         // -------- Frame Source | Main Page -------- //
 
             var I_apple_source_frame = "<iframe style='margin-top: -40px!important;' allow='autoplay *; encrypted-media *;' frameborder='0' height='400px' width='100%' style='overflow:hidden;background:transparent;' sandbox='allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation' src='https://embed.music.apple.com/ca/album/up-all-night-ep/1476702376?app=music'></iframe>";
