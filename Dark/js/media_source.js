@@ -16,9 +16,9 @@
 
         // -------- Frame Source | Main Page -------- //
 
-            var I_apple_source_frame = "<iframe style='margin-top: -40px!important;' allow='autoplay *; encrypted-media *;' frameborder='0' height='400px' width='100%' style='overflow:hidden;background:transparent;' sandbox='allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation' src='https://embed.music.apple.com/ca/album/up-all-night-ep/1476702376?app=music'></iframe>";
-            var I_soundcloud_source_frame = "<iframe style='margin-top: -40px!important;'width='100%' height='400' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/843222926&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>";
-            var I_spotify_source_frame = "<iframe style='margin-top: -40px!important;' src='https://open.spotify.com/embed/album/0XYYw1tr8R8QcErpFeCn4Q&theme=red'width='100%' height='400' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>";
+            var I_apple_source_frame = "<iframe style='margin-top: -10px!important;' allow='autoplay *; encrypted-media *;' frameborder='0' height='400px' width='100%' style='overflow:hidden;background:transparent;' sandbox='allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation' src='https://embed.music.apple.com/ca/album/up-all-night-ep/1476702376?app=music'></iframe>";
+            var I_soundcloud_source_frame = "<iframe style='margin-top: -10px!important;'width='100%' height='400' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/843222926&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>";
+            var I_spotify_source_frame = "<iframe style='margin-top: -10px!important;' src='https://open.spotify.com/embed/album/0XYYw1tr8R8QcErpFeCn4Q&theme=red'width='100%' height='400' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>";
 
         // -------- Frame Source | Music Page -------- //
 

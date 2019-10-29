@@ -3057,6 +3057,7 @@ button {
 }
 #source-picker {
 	width: 150; 
+	width: 100%!important;
 }
 .btn_selector:hover{
 	color: #555;
