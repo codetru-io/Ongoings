@@ -3056,7 +3056,10 @@ button {
 	margin-top: -30px; margin-left: -50px; height:500px; width: 100%;
 }
 #source-picker {
-	width: 220px; 
+	width: 150; 
+}
+.btn_selector:hover{
+	color: #555;
 }
 @media (max-width: 500px) {
 	#source-section {
